@@ -1,0 +1,7 @@
+The file oontains simple ip grabber created using bash scripting.
+Here i used arp to extract the ip address connected to the network and using cut command i have it to show the ip addresses only.
+to run file first download the file and run the following commands
+cd <directory in which the file is downloaded>
+  chmod +x <file name>
+  ./<filename>
+  
